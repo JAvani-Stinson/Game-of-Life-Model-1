@@ -1,6 +1,3 @@
-import sys
-
-sys.path.append(r"C:\Users\JStin\OneDrive\Desktop\Research\Game of Life\Coded Game of Life")
 from rplife import patterns, views
 from rplife.cli import get_command_line_args
 
