@@ -1,8 +1,6 @@
 import argparse
 import sys
 
-sys.path.append(r"C:\Users\JStin\OneDrive\Desktop\Research\Game of Life\Coded Game of Life")
-
 from rplife import __version__, patterns, views
 
 def get_command_line_args():
