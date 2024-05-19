@@ -2,7 +2,6 @@ import curses
 import sys
 from time import sleep
 
-sys.path.append(r"C:\Users\JStin\OneDrive\Desktop\Research\Game of Life\Coded Game of Life")
 from rplife.grid import LifeGrid
 
 __all__=["CursesView"]
